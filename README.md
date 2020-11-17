@@ -8,7 +8,7 @@ links:
 - [Papers and code on Okmij Website](http://okmij.org/ftp/)
 
 tools:
-- [djinn][https://hackage.haskell.org/package/djinn)
+- [djinn](https://hackage.haskell.org/package/djinn)
 - [pointfree](https://hackage.haskell.org/package/pointfree) ([web version](http://pointfree.io/))
 
 Other Resources
