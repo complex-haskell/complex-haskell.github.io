@@ -1,6 +1,8 @@
 # complex-haskell.github.io
 
 - http://dev.stephendiehl.com/hask/
+- https://willamette.edu/~fruehr/haskell/evolution.html
 - http://lens.github.io/
-- http://okmij.org/ftp/
 - https://thinkingwithtypes.com/
+- http://okmij.org/ftp/ 
+
