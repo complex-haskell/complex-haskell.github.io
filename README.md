@@ -5,7 +5,7 @@ links:
 - ["What I wish I knew before using Haskell"](http://dev.stephendiehl.com/hask/)
 - [lens libary homepage](http://lens.github.io/)
 - ["Thinking with types book"](https://thinkingwithtypes.com/)
-- [Papers and code on Okmij](http://okmij.org/ftp/)
+- [Papers and code on Okmij Website](http://okmij.org/ftp/)
 
 tools:
 - [djinn][https://hackage.haskell.org/package/djinn)
