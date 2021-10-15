@@ -15,5 +15,5 @@ Other Resources:
  - [Haskell wiki](https://wiki.haskell.org/Haskell)
  - [The wikibook for Haskell](https://en.wikibooks.org/wiki/Haskell)
 
-Non Free Resources:
+Non-Free Resources:
  - ["Thinking with types" book](https://thinkingwithtypes.com/)
